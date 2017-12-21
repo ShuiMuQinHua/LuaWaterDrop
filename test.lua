@@ -1,5 +1,9 @@
 -- 变量
 
+--[[
+aaaaaa,bbbbb,vvvv,sfsedegkrkdg,fffff
+]]--
+
 a = 5       --全局变量
 local b = 5 --局部变量
 
